@@ -2,3 +2,4 @@
 go.mod
 *.exe
 *.mp3
+.env
